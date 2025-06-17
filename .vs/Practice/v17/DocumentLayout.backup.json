@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivani\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083AA312-D400-419A-9834-5CE01BCEAFE5}|Practice\\Practice.csproj|c:\\users\\ivani\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083AA312-D400-419A-9834-5CE01BCEAFE5}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083AA312-D400-419A-9834-5CE01BCEAFE5}|Practice\\Practice.csproj|c:\\users\\ivani\\source\\repos\\practice\\practice\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083AA312-D400-419A-9834-5CE01BCEAFE5}|Practice\\Practice.csproj|solutionrelative:practice\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\source\\repos\\Practice\\Practice\\List.cs",
+              "RelativeDocumentMoniker": "Practice\\List.cs",
+              "ToolTip": "C:\\Users\\ivani\\source\\repos\\Practice\\Practice\\List.cs",
+              "RelativeToolTip": "Practice\\List.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAgwJkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:34:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\source\\repos\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\ivani\\source\\repos\\Practice\\Practice\\Program.cs*",
+              "RelativeToolTip": "Practice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:17:35.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
