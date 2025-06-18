@@ -12,3 +12,4 @@ C:\Users\ivani\source\repos\Practice\Practice\obj\Debug\net8.0\refint\Practice.d
 C:\Users\ivani\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.pdb
 C:\Users\ivani\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
 C:\Users\ivani\source\repos\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
+C:\Users\ivani\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.sourcelink.json

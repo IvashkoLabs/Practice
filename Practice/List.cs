@@ -157,15 +157,27 @@ namespace Practice
             }
             public static BiList Deserialize(string json)
             {
-                List<EventManagement>? events = JsonSerializer.Deserialize<List<EventManagement>>(json);
                 BiList eventList = new BiList();
-                if (events != null)
+                try
                 {
-                    foreach (EventManagement eventNode in events)
+                    List<EventManagement>? events = JsonSerializer.Deserialize<List<EventManagement>>(json);
+                    if (events != null)
                     {
-                        eventList.AddFirst(eventNode);
+                        foreach (EventManagement eventNode in events)
+                        {
+                            eventList.AddFirst(eventNode);
+                        }
                     }
                 }
+                catch (JsonException ex)
+                {
+                    Console.WriteLine("JSON Deserialize error: " + ex.Message);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("unknown error: " + ex.Message);
+                }
+
                 return eventList;
             }
         }
